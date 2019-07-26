@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c77d1964-8f65-418b-9910-f425320687e3" name="Default Changelist" comment="" />
+    <list default="true" id="dfab47f1-40e5-4926-98d4-e1dd27a83d13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/mauriz/fran/ventas/Orden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mauriz/fran/ventas/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ventas/Ventas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Matrices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Matrices/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,20 +21,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Persona.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mauriz/fran/ventas/Producto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="390">
+              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Matrices.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mauriz/fran/ventas/Orden.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="525">
+              <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ventas/Ventas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -48,8 +63,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Persona.java" />
-        <option value="$PROJECT_DIR$/src/Matrices.java" />
+        <option value="$PROJECT_DIR$/src/mauriz/fran/ventas/Producto.java" />
+        <option value="$PROJECT_DIR$/src/mauriz/fran/ventas/Orden.java" />
+        <option value="$PROJECT_DIR$/src/ventas/Ventas.java" />
       </list>
     </option>
   </component>
@@ -71,23 +87,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Matrices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Matrices" type="462c0819:PsiDirectoryNode" />
+              <item name="DiseñoClase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DiseñoClase" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -102,16 +115,22 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Matrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Matrices" />
-      <module name="Matrices" />
+    <configuration name="Ventas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ventas.Ventas" />
+      <module name="DiseñoClase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ventas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Matrices" />
+        <item itemvalue="Application.Ventas" />
       </list>
     </recent_temporary>
   </component>
@@ -120,11 +139,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c77d1964-8f65-418b-9910-f425320687e3" name="Default Changelist" comment="" />
-      <created>1564118131307</created>
+      <changelist id="dfab47f1-40e5-4926-98d4-e1dd27a83d13" name="Default Changelist" comment="" />
+      <created>1564128456590</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564118131307</updated>
+      <updated>1564128456590</updated>
     </task>
     <servers />
   </component>
@@ -160,17 +179,24 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Persona.java">
+    <entry file="file://$PROJECT_DIR$/src/mauriz/fran/ventas/Producto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="390">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Matrices.java">
+    <entry file="file://$PROJECT_DIR$/src/mauriz/fran/ventas/Orden.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="525">
+          <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ventas/Ventas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
         </state>
       </provider>
     </entry>
