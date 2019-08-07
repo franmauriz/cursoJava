@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e6ee43c-ba7b-495f-a939-ca4a77c26219" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cpjlaboratoriofinal/CPJLaboratorioFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cpjlaboratoriofinal/CPJLaboratorioFinal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/datos/AccesoDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/datos/AccesoDatos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/datos/AccesoDatosImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/datos/AccesoDatosImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/excepciones/AccesoDatosEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/excepciones/AccesoDatosEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/excepciones/EscrituraDatosEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/excepciones/EscrituraDatosEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/excepciones/LecturaDatosEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/excepciones/LecturaDatosEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/negocio/CatalogoPeliculas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/negocio/CatalogoPeliculas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/negocio/CatalogoPeliculasImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/negocio/CatalogoPeliculasImpl.java" afterDir="false" />
-    </list>
+    <list default="true" id="7e6ee43c-ba7b-495f-a939-ca4a77c26219" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
