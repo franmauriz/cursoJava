@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e6ee43c-ba7b-495f-a939-ca4a77c26219" name="Default Changelist" comment="" />
+    <list default="true" id="7e6ee43c-ba7b-495f-a939-ca4a77c26219" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cpjlaboratoriofinal/CPJLaboratorioFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cpjlaboratoriofinal/CPJLaboratorioFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/datos/AccesoDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/datos/AccesoDatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/datos/AccesoDatosImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/datos/AccesoDatosImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/excepciones/AccesoDatosEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/excepciones/AccesoDatosEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/excepciones/EscrituraDatosEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/excepciones/EscrituraDatosEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/excepciones/LecturaDatosEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/excepciones/LecturaDatosEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/negocio/CatalogoPeliculas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/negocio/CatalogoPeliculas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mx/com/gm/peliculas/negocio/CatalogoPeliculasImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mx/com/gm/peliculas/negocio/CatalogoPeliculasImpl.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +27,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1OxIgGxpm1d2udrLFjr73HcB0Cc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,6 +48,26 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CPJLaboratorioFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cpjlaboratoriofinal.CPJLaboratorioFinal" />
+      <module name="LaboratorioFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cpjlaboratoriofinal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CPJLaboratorioFinal" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,5 +81,29 @@
       <updated>1564912930715</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cpjlaboratoriofinal/CPJLaboratorioFinal.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
