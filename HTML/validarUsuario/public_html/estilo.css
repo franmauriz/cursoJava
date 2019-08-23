@@ -1,0 +1,34 @@
+
+body{
+    background: #000000;
+    color:#ff6600;
+}
+
+.label{
+  border: 1px solid;
+  border-top:none;
+  border-right: none;
+  border-left: none;  
+}
+
+input{
+    border:1px solid #ddd;
+    background: #ffffff;
+   
+}
+
+.tabla{
+    width:200px;
+    border:none;
+    
+}
+.btn{
+  
+   background: #ff9900;
+   color:white;
+   font-weight: bold;
+}
+
+.btns{
+    padding-left: 95px;
+}

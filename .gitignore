@@ -1,1 +1,3 @@
 *.zip
+/HTML/ManejoUsuario/nbproject/private/
+/HTML/validarUsuario/nbproject/private/

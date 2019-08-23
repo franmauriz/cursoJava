@@ -5,10 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="estilo.css" type="text/css">
+    <script type="text/javascript" src="validaciones.js"></script>
     <title>Formulario</title>
 </head>
 <body>
-    <form name="formi" action="recursoServidor" method="POST">
+    <form name="formi" action="recursoServidor" method="POST" onsubmit="return validarForma(this);">
         <input type="hidden" name="oculto" value="valorOculto">
         <table width="200" id="one-column-emphasis">
             <caption>
@@ -19,7 +20,7 @@
                     Usuario:
                 </td>
                 <td>
-                    <input class="default" type="text" name="usuario" value="Escribir usuario"/>
+                    <input class="default" type="text" name="usuario" value="Escribir usuario" onfocus="this.select();"/>
                 </td>
             </tr>
             <tr>
@@ -27,7 +28,7 @@
                     Password:
                 </td>
                 <td>
-                    <input type="password" class="default" name="password"/>
+                    <input type="password" class="default" name="password" onfocus="this.select();"/>
                 </td>
             </tr>
             <tr>
@@ -70,7 +71,7 @@
                     M&uacute;sica Favorita:
                 </td>
                 <td>
-                    <select name="musica" class="default">
+                    <select name="musica" multiple class="default">
                         <option value="rock">Rock</option>
                         <option value="pop">Pop</option>
                         <option value="salsa">Salsa</option>
@@ -83,7 +84,7 @@
                     Comentarios:
                 </td>
                 <td>
-                    <textarea name="comentarios" cols="30" rows="2" class="default">
+                    <textarea name="comentarios" cols="30" rows="2" class="default" onfocus="this.select();">
                         Escribir un comentario.
                     </textarea>
                 </td>

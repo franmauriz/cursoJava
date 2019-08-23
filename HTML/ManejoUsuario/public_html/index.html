@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Manejo Usuarios</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script type="text/javascript" src="funciones.js"></script>
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+    <body>
+        <h1>Manejo de Usuarios</h1>
+        <form name="forma" method="post" onsubmit="return anadir(this)">
+            <p>Agregar un usuario (Enter): <input type="text" name="usuario"></p>
+        </form>
+        <ol id="listaiten">
+                
+        </ol>
+        
+        <br/>
+        <form name="formados" method="post" onsubmit="return buscar(this)">
+            <p>Escribe el nombre del usuario para buscar su posicion (Enter): <input type="text" name="usuariosearch"></p>
+        </form>
+        <div id="busqueda"></div>
+    </body>
+</html>
