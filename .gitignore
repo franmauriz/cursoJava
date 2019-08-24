@@ -1,3 +1,9 @@
 *.zip
 /HTML/ManejoUsuario/nbproject/private/
 /HTML/validarUsuario/nbproject/private/
+/HolamundoServlets/nbproject/private/
+/HolamundoServlets/build/
+/CreacionServlet/nbproject/private/
+/CreacionServlet/build/
+/ManejoParametros/nbproject/private/
+/ManejoParametros/build/
