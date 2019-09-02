@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Document   : documentoJsp
+    Created on : 1 sept. 2019, 8:12:36
+    Author     : franmp
+-->
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+
+    <jsp:directive.page contentType="text/html" pageEncoding="UTF-8"/>
+    
+    <!-- Uso de declaraciones -->
+    <jsp:declaration>
+        private int contadorVisitas = 1;
+    </jsp:declaration>
+    <html>
+        <body>
+            <h1>Ejemplo de un Documento JSPX</h1>
+            <!-- Ejemplo de salida de texto -->
+            <jsp:text>
+                Saludos desde un documento JSP
+            </jsp:text>
+            <br/>
+            <!-- Ejemplo de una expresion -->
+            Expresióon matematica
+            3*2=
+            <jsp:expression>
+                3*2
+            </jsp:expression>
+            <br/>
+            <jsp:scriptlet>
+                String nombreAplicacion = request.getContextPath();
+            </jsp:scriptlet>
+            
+            Nombre Aplicacion:
+            <jsp:expression>nombreAplicacion</jsp:expression>
+            
+            <br/>
+            
+            Contador de Visitas:
+            
+            <jsp:expression>this.contadorVisitas++</jsp:expression>
+                    
+        </body>
+    </html>
+
+</jsp:root>
