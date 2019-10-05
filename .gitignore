@@ -63,6 +63,10 @@
 /JSF/validadoresJSF/target/
 /JSF/convertidoresJSF/target/
 /JSF/internacionalizacionJSF/target/
+<<<<<<< HEAD
 /JSF/internacionalizacionJSF_2/target/
 /JSF/eventosJSF/target/
 /JSF/actionlistenerJSF/target/
+=======
+/JSF/internacionalizacionJSF_2/target/
+>>>>>>> master
