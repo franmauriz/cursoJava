@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:h="http://java.sun.com/jsf/html" xmlns:ui="http://java.sun.com/jsf/facelets">
+    <h:head>
+        <title>Bolsa de Trabajo #{candidato.nombre}</title>
+    </h:head>
+    <h:body>
+        <ui:composition template="./WEB-INF/plantillas/plantilla.xhtml">
+            <ui:define name="content">
+                <p>Gracias #{candidato.nombre}, por solicitar la vacante</p>
+                <br/>
+                <h:outputLink hreflang="index">Regresar</h:outputLink>
+            </ui:define>
+        </ui:composition>
+    </h:body>
+</html>
